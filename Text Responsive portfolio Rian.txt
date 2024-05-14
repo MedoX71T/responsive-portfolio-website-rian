@@ -20,9 +20,9 @@ Home - About Me - Projects - Contact Me
 Mohamed AbdElmoniem
 
 .home__social-link
-https://www.instagram.com/
-https://www.linkedin.com/
-https://github.com/
+https://www.facebook.com/medox71t
+https://www.linkedin.com/in/icerat6657
+https://github.com/MedoX71T
 
 .home__description
 <b>Frontend Developer</b>, with knowledge in web 
